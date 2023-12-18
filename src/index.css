@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@keyframes spinner-zp9dbg {
+    to {
+        transform: rotate(1turn);
+    }
+}
